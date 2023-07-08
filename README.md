@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hackeinstein
 - 👀 I’m interested in UI/UX, Web development, backend engineering, machine learing and AI, Ethical hacking and Mobile development
-- 🌱 I’m currently learning AdobeXd, Flutter & Dart, Advanced python
+- 🌱 I’m currently learning AdobeXd,  Advanced python
 - 💞️ I’m looking to collaborate on Web and Mobile dev Projects
 - 📫 How to reach me @hackienstein0 on twitter, hackeinsteinvictor@gmail.com, https://www.linkedin.com/in/victor-hackeinstein-aaa783203/
 
