@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer From Nigeria</h3>
 
 
-- 🔭 I’m currently working on **Node js and (ICS)2** 
+- 🔭 Open to work and learning new technologies** 
 
 - 🌱 I’m currently learning **Node js**
 
