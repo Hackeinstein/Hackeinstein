@@ -4,9 +4,7 @@
 
 - 🔭 Open to work and learning new technologies** 
 
-- 🌱 I’m currently learning **Node js**
-
-- 👯 I’m looking to collaborate on **Backend Development Projects**
+- 👯 I’m looking to collaborate 
 
 - 👨‍💻 All of my projects are available at [github.com/Hackeinstein](github.com/Hackeinstein)
 
