@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Hackeinstein](github.com/Hackeinstein)
 
-- 💬 Ask me about **Backend Development, Cybersecurity and IT**
+- 💬 Ask me about **Backend Development, Cybersecurity and IoT**
 
 - 📫 How to reach me **officialhackeinstein@gmail.com**
 
